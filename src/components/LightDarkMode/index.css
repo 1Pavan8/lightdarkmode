@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.main {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 70px;
+}
+
+.sublight {
+  padding: 16px;
+  background-color: white;
+  color: black;
+  border-width: 3px;
+  border-color: black;
+}
+
+.subdark {
+  padding: 17px;
+  background-color: black;
+  color: white;
+}
+
+.head {
+  font-size: 40px;
+}
+
+.butndark {
+  background-color: black;
+  color: white;
+  font-weight: 300;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.butnlight {
+  background-color: white;
+  font-weight: 300;
+  padding: 3px;
+  border-radius: 3px;
+}
